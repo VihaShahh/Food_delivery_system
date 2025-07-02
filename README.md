@@ -92,8 +92,6 @@ Food_delivery_system/
 
 ---
 
-## 👩‍💻 Developed By
-
 **Viha Shah**
 📍 India
 🔗 [LinkedIn](https://www.linkedin.com/in/vihashahh)
